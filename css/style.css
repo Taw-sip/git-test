@@ -4,5 +4,10 @@ body {
   padding: 50px;
   background: #111;
   color: #fff;
-  font-family: serif;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  width: 100px;
+  height: 80px;
 }
